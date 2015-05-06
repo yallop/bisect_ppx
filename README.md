@@ -74,7 +74,7 @@ Fool! Don't you see now that I could have poisoned youa hundred times had I been
 Friends, Romans, countrymen, lend me your ears;I come to bury Caesar, not to praise him.
 
 # Create report
-$ bisect_report -html report_dir bisect0001.out
+$ bisect-report -html report_dir bisect0001.out
 
 # See output
 $ open report_dir/index.html
